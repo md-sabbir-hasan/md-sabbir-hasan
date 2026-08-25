@@ -73,7 +73,7 @@ A Python-based command-line application built as one of my Python learning proje
 **Backend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,flask" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
 **Frontend**
@@ -93,8 +93,11 @@ A Python-based command-line application built as one of my Python learning proje
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-gules.vercel.app/api?username=md-sabbir-hasan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-eight-gules.vercel.app/api/top-langs/?username=md-sabbir-hasan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/md-sabbir-hasan/md-sabbir-hasan/main/profile-summary-card-output/default/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/md-sabbir-hasan/md-sabbir-hasan/main/profile-summary-card-output/default/2-most-commit-language.svg" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/md-sabbir-hasan/md-sabbir-hasan/main/profile-summary-card-output/default/3-stats.svg" />
 </p>
 
 ---
@@ -110,7 +113,7 @@ A Python-based command-line application built as one of my Python learning proje
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=md-sabbir-hasan&theme=tokyo-night&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/md-sabbir-hasan/md-sabbir-hasan/main/profile-summary-card-output/default/4-productive-time.svg" />
 </p>
 
 ---
