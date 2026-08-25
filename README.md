@@ -73,7 +73,7 @@ A Python-based command-line application built as one of my Python learning proje
 **Backend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,flask" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
 **Frontend**
