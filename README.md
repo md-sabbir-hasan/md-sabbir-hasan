@@ -1,62 +1,50 @@
-# 👋 Hi, I'm Sabbir Hasan
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 
-### 💻 Full Stack / Backend Developer
+<h1 align="center">Hi 👋, I'm Sabbir Hasan</h1>
 
-I'm a developer who enjoys building practical applications, exploring new technologies, and turning ideas into real-world software.
+<h3 align="center">Full Stack / Backend Developer</h3>
 
-* 🔭 Currently working on **Task Management Web Application**
-* 🌱 Currently learning and exploring **React**
+<p align="center">
+  Building practical software solutions with Java, Spring Boot, Python, Angular and React.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🔭 Currently working on **NexaERP — Accounting & Finance Management System**
+* 🚀 Currently building a **Task Management Web Application**
+* ⚛️ Exploring **React** for modern frontend development
 * 🐍 Building projects with **Python**
-* ☕ Experienced with **Java & Spring Boot**
-* 🗄️ Working with **MySQL & REST APIs**
-* 🚀 Interested in **Backend & Full Stack Development**
-* 📚 Always learning and improving
+* ☕ Working with **Java & Spring Boot**
+* 🗄️ Interested in **Backend Development, REST APIs & Database Architecture**
+* 🧠 Continuously learning and improving my software engineering skills
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Current Projects
 
-### Languages
+### 🏢 NexaERP — Accounting & Finance Management System
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
-</p>
+A full-stack **Accounting & Finance Management System** designed to manage core business and financial operations.
 
-### Backend & Frameworks
+**Tech Stack:**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,python,nodejs" />
-</p>
+`Java` · `Spring Boot` · `Angular` · `MySQL` · `JWT` · `REST API`
 
-### Frontend
+**Working on:**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css" />
-</p>
-
-### Database & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,vscode" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🏢 NexaERP
-
-A full-stack Enterprise Resource Planning system focused on accounting and business management.
-
-**Tech:** Java · Spring Boot · Angular · MySQL · JWT · REST API
-
----
-
-### 🌤️ Weather Task CLI
-
-A Python-based command-line project for working with weather information.
-
-**Tech:** Python · CLI · API
+* Accounting & Finance Management
+* Chart of Accounts
+* Journal Entries
+* Invoices & Bills
+* Payments
+* Reports
+* Budget Management
+* Approval Workflows
+* User & Role Management
 
 ---
 
@@ -64,10 +52,51 @@ A Python-based command-line project for working with weather information.
 
 Currently building a modern web-based task management application.
 
-The goal is to create a practical application for managing tasks, organizing work, and tracking progress.
+I'm experimenting with **React** on the frontend while working on the application architecture and functionality.
 
-**Frontend:** React
-**Status:** 🚧 In Development
+**Tech Stack:**
+
+`React` · `Python` · `REST API` · `Database`
+
+🚧 **Status: In Development**
+
+---
+
+### 🌤️ Weather Task CLI
+
+A Python-based command-line application built as one of my Python learning projects.
+
+**Tech Stack:**
+
+`Python` · `CLI` · `Weather API`
+
+---
+
+## 🛠️ Languages & Technologies
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,python" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react" />
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,vscode" />
+</p>
 
 ---
 
@@ -80,7 +109,7 @@ The goal is to create a practical application for managing tasks, organizing wor
 
 ---
 
-## 📈 Contribution
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
@@ -88,14 +117,20 @@ The goal is to create a practical application for managing tasks, organizing wor
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Currently Learning
 
-* 🚀 Build more production-ready applications
-* ⚛️ Improve my React skills
-* 🐍 Build more Python projects
-* ☕ Strengthen my Spring Boot & backend architecture skills
-* 🧠 Learn better system design and software engineering practices
-* 🌎 Contribute to open-source projects
+* ⚛️ React
+* 🐍 Advanced Python
+* 🏗️ Software Architecture
+* 🧠 System Design
+* 🔐 Application Security
+* 🚀 Building Production-Ready Applications
+
+---
+
+## 📌 What I'm Interested In
+
+**Backend Development** · **Full Stack Development** · **REST APIs** · **ERP Systems** · **Accounting Software** · **Database Design** · **Software Architecture**
 
 ---
 
@@ -112,6 +147,10 @@ The goal is to create a practical application for managing tasks, organizing wor
 
 ---
 
-### 💡 "Build. Learn. Improve. Repeat."
+<p align="center">
+  <b>💡 Build • Learn • Improve • Repeat</b>
+</p>
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
