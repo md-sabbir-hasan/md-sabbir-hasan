@@ -85,7 +85,7 @@ A Python-based command-line application built as one of my Python learning proje
 **Database & Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,postman,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,postman" />
 </p>
 
 ---
