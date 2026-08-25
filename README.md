@@ -73,7 +73,7 @@ A Python-based command-line application built as one of my Python learning proje
 **Backend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,flask" />
 </p>
 
 **Frontend**
@@ -93,8 +93,8 @@ A Python-based command-line application built as one of my Python learning proje
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-sabbir-hasan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sabbir-hasan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-gules.vercel.app/api?username=md-sabbir-hasan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-gules.vercel.app/api/top-langs/?username=md-sabbir-hasan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -110,7 +110,7 @@ A Python-based command-line application built as one of my Python learning proje
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-sabbir-hasan&theme=tokyo-night&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=md-sabbir-hasan&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
