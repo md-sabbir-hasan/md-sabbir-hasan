@@ -17,8 +17,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/md-sabbir-hasan/md-sabbir-hasan/output/github-contribution-grid-snake.svg">
 </picture>
 
-> ⚠️ এই snake animation টা কাজ করার জন্য নিচে দেওয়া GitHub Actions workflow টা সেটআপ করতে হবে (নিচে বিস্তারিত দেওয়া আছে)।
-
 ---
 
 ### 🚀 About Me
