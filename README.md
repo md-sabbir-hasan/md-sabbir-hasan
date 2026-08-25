@@ -1,156 +1,83 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Sabbir Hasan</h1>
-
-<h3 align="center">Full Stack / Backend Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Sabbir+Hasan;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  Building practical software solutions with Java, Spring Boot, Python, Angular and React.
+  <img src="https://komarev.com/ghpvc/?username=md-sabbir-hasan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/md-sabbir-hasan?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🐍 My GitHub Contribution Snake
 
-* 🔭 Currently working on **NexaERP — Accounting & Finance Management System**
-* 🚀 Currently building a **Task Management Web Application**
-* ⚛️ Exploring **React** for modern frontend development
-* 🐍 Building projects with **Python**
-* ☕ Working with **Java & Spring Boot**
-* 🗄️ Interested in **Backend Development, REST APIs & Database Architecture**
-* 🧠 Continuously learning and improving my software engineering skills
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-sabbir-hasan/md-sabbir-hasan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-sabbir-hasan/md-sabbir-hasan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/md-sabbir-hasan/md-sabbir-hasan/output/github-contribution-grid-snake.svg">
+</picture>
 
----
-
-## 🚀 Current Projects
-
-### 🏢 NexaERP — Accounting & Finance Management System
-
-A full-stack **Accounting & Finance Management System** designed to manage core business and financial operations.
-
-**Tech Stack:**
-
-`Java` · `Spring Boot` · `Angular` · `MySQL` · `JWT` · `REST API`
-
-**Working on:**
-
-* Accounting & Finance Management
-* Chart of Accounts
-* Journal Entries
-* Invoices & Bills
-* Payments
-* Reports
-* Budget Management
-* Approval Workflows
-* User & Role Management
+> ⚠️ এই snake animation টা কাজ করার জন্য নিচে দেওয়া GitHub Actions workflow টা সেটআপ করতে হবে (নিচে বিস্তারিত দেওয়া আছে)।
 
 ---
 
-### ✅ Task Management Web Application
+### 🚀 About Me
 
-Currently building a modern web-based task management application.
-
-I'm experimenting with **React** on the frontend while working on the application architecture and functionality.
-
-**Tech Stack:**
-
-`React` · `Python` · `REST API` · `Database`
-
-🚧 **Status: In Development**
+- 💼 আমি বর্তমানে কাজ করছি Full Stack Development নিয়ে
+- 🌱 শিখছি নতুন নতুন টেকনোলজি
+- 📫 যোগাযোগ করুন: your-email@example.com
+- ⚡ আমার আগ্রহ: Web Development, Problem Solving
 
 ---
 
-### 🌤️ Weather Task CLI
+### 🛠️ Languages & Tools
 
-A Python-based command-line application built as one of my Python learning projects.
-
-**Tech Stack:**
-
-`Python` · `CLI` · `Weather API`
-
----
-
-## 🛠️ Languages & Technologies
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,python" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react" />
-</p>
-
-### Database & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,spring,html,css,mysql,mongodb,docker,git,github,aws,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="180"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-sabbir-hasan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sabbir-hasan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-sabbir-hasan&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
 
-## 🎯 Currently Learning
+### 🏆 GitHub Trophies
 
-* ⚛️ React
-* 🐍 Advanced Python
-* 🏗️ Software Architecture
-* 🧠 System Design
-* 🔐 Application Security
-* 🚀 Building Production-Ready Applications
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=md-sabbir-hasan&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-## 📌 What I'm Interested In
+### 📈 Contribution Graph (Activity Graph)
 
-**Backend Development** · **Full Stack Development** · **REST APIs** · **ERP Systems** · **Accounting Software** · **Database Design** · **Software Architecture**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-sabbir-hasan&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+### 🌐 Connect With Me
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://facebook.com/your-facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <b>💡 Build • Learn • Improve • Repeat</b>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=120&section=footer" />
 </p>
