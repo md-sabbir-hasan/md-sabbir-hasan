@@ -140,7 +140,7 @@ A Python-based command-line application built as one of my Python learning proje
 ## 📄 Resume
 
 <p align="center">
-  <a href="./Sabbir_Hasan_CV.pdf">
+  <a href="./Md_Sabbir_Hasan_CV.pdf">
     <img src="https://img.shields.io/badge/Download%20My%20Resume-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
